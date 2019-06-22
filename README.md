@@ -12,3 +12,4 @@ New notebook will be added after every class.
 [3.0] [ML Terms](https://github.com/nsojib/ML_Course/blob/master/terms.ipynb) <br>
 [4.0] [Decision Tree](https://github.com/nsojib/ML_Course/blob/master/decition_tree_wd.ipynb) <br>
 [5.0] [Perceptron](https://github.com/nsojib/ML_Course/blob/master/perceptron.ipynb) <br>
+[6.0] [KNN](https://github.com/nsojib/ML_Course/blob/master/knn.ipynb) <br>
