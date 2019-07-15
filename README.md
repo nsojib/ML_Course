@@ -13,3 +13,6 @@ New notebook will be added after every class.
 [4.0] [Decision Tree](https://github.com/nsojib/ML_Course/blob/master/decition_tree_wd.ipynb) <br>
 [5.0] [Perceptron](https://github.com/nsojib/ML_Course/blob/master/perceptron.ipynb) <br>
 [6.0] [KNN](https://github.com/nsojib/ML_Course/blob/master/knn.ipynb) <br>
+[7.0] [Random Forest] <br>
+[8.0] [Support Vector Machine] <br>
+[9.0] [Naive Bayes Classifier]
