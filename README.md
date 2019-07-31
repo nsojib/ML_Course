@@ -15,4 +15,5 @@ New notebook will be added after every class.
 [6.0] [KNN](https://github.com/nsojib/ML_Course/blob/master/knn.ipynb) <br>
 [7.0] [Random Forest] <br>
 [8.0] [Support Vector Machine] <br>
-[9.0] [Naive Bayes Classifier](https://github.com/nsojib/ML_Course/blob/master/nb.ipynb)
+[9.0] [Naive Bayes Classifier](https://github.com/nsojib/ML_Course/blob/master/nb.ipynb) <br>
+[11.0] [Principal Component Analysis](https://github.com/nsojib/ML_Course/blob/master/pca_calc.ipynb)
