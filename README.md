@@ -17,7 +17,8 @@ New notebook will be added after every class.
 [8.0] [Support Vector Machine] <br>
 [9.0] [Naive Bayes Classifier](https://github.com/nsojib/ML_Course/blob/master/nb.ipynb) <br>
 [10.0] [K-Means clustering](https://github.com/nsojib/ML_Course/blob/master/k_means.ipynb) <br>
-[11.0] [Principal Component Analysis](https://github.com/nsojib/ML_Course/blob/master/pca_calc.ipynb)
+[11.0] [Principal Component Analysis](https://github.com/nsojib/ML_Course/blob/master/pca_calc.ipynb) <br>
+[12.0] [Neural Network (Feedforward with Backpropagation)](https://github.com/nsojib/ML_Course/blob/master/ann.ipynb)
 
 
 <b>[Lab Task and Project](https://docs.google.com/document/d/1n1a1MG-OrPhVKWL75QnqEvV4bVd9N6jQkOzRceLaUmI/edit?usp=sharing)
