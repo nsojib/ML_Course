@@ -1,7 +1,7 @@
 "# ML_Course" 
 Summer -19 Dept. of CSE, NEUB
+Fall -19 Dept. of CSE, NEUB
 
-New notebook will be added after every class. 
 
 <a href='https://drive.google.com/file/d/1gSIopLg0uwb4ADAAQjSmeygKQ8h_M_fa/view?usp=sharing'>CSE 455: Machine Learning Course Syllabus</a>
 
