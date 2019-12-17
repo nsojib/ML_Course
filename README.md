@@ -11,6 +11,7 @@ New notebook will be added after every class.
 [2.2] [Logistic Regression (Multiclass) ](https://github.com/nsojib/ML_Course/blob/master/LogisticRegression_simple_py3_oop.ipynb) <br>
 [3.0] [ML Terms](https://github.com/nsojib/ML_Course/blob/master/terms.ipynb) <br>
 [4.0] [Decision Tree](https://github.com/nsojib/ML_Course/blob/master/decition_tree_wd.ipynb) <br>
+[4.1] [Decision Tree: Numerical data](https://github.com/nsojib/ML_Course/blob/master/decision_tree.ipynb)<br>
 [5.0] [Perceptron](https://github.com/nsojib/ML_Course/blob/master/perceptron.ipynb) <br>
 [6.0] [KNN](https://github.com/nsojib/ML_Course/blob/master/knn.ipynb) <br>
 [7.0] [Random Forest](https://github.com/nsojib/ML_Course/blob/master/mydt_random_forest.ipynb) <br>
