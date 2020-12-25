@@ -1,9 +1,7 @@
-"# ML_Course" 
+### CSE 455: Machine Learning
 Summer -19 Dept. of CSE, NEUB
 Fall -19 Dept. of CSE, NEUB
-
-
-<a href='https://drive.google.com/file/d/1gSIopLg0uwb4ADAAQjSmeygKQ8h_M_fa/view?usp=sharing'>CSE 455: Machine Learning Course Syllabus</a>
+ 
 
 [1.0] [Basic Numpy Operation](https://github.com/nsojib/ML_Course/blob/master/numpy_op.ipynb) <br>
 [1.1] [Linear Regression](https://github.com/nsojib/ML_Course/blob/master/w1LR.ipynb) <br>
